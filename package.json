@@ -1,0 +1,16 @@
+{
+  "name": "book-company-backend",
+  "version": "1.0.0",
+  "description": "Backend Software for the Book Distribution Company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sai Jagruthi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.6",
+    "nodemon": "^2.0.15"
+  }
+}
